@@ -6,3 +6,13 @@ Hangman is a words guessing game for one player. This is command line applicatio
 
 # How to run the program
 In your IDE of choice go to Run > Edit Configurations menu setting. Add any word to Arguments configuration and you can play Hangman through console
+
+This is the code with comments.
+
+To play:
+
+$ git clone https://github.com/ashishshah1995/hangman
+$ clear && javac Hangman.java && java Hangman <5 letter word> 
+(dont include the <> when giving the 5 letter word)
+
+Have fun!
